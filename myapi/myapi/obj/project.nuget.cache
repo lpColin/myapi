@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "jy5sNGV0/UI=",
+  "success": true,
+  "projectFilePath": "D:\\lupeng\\.net\\RiderProjects\\myapi\\myapi\\myapi.csproj",
+  "expectedPackageFiles": [
+    "D:\\MyConfiguration\\peng2.lu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "D:\\MyConfiguration\\peng2.lu\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://nugetapi.17usoft.com/v3/index.json.",
+      "projectPath": "D:\\lupeng\\.net\\RiderProjects\\myapi\\myapi\\myapi.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\lupeng\\.net\\RiderProjects\\myapi\\myapi\\myapi.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
